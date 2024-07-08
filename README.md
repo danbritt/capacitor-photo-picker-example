@@ -7,6 +7,6 @@
 - Click the button to select a single image from album
 - The data from the exif property will be displayed in the text box
 - For me, all of the GPS values are zero'd out
-- Tested on Pixel 5a running android 14
+- Tested on Pixel 5a running android 14 and Pixel 3 running android 12
 
 
